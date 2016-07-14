@@ -1,0 +1,63 @@
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe.config
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\bin\x64\Debug\NET_Project.pdb
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\bin\x64\Debug\halcondotnet.dll
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\bin\x64\Debug\halcondotnet.xml
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\obj\x64\Debug\NET_Project.exe
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\obj\x64\Debug\NET_Project.pdb
+C:\Users\changlw\Desktop\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe.config
+C:\Users\changlw\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.exe
+C:\Users\changlw\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.pdb
+C:\Users\USER\Desktop\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe.config
+C:\Users\USER\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.exe
+C:\Users\USER\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.pdb
+C:\Users\USER\Desktop\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe
+C:\Users\USER\Desktop\NET_Project\NET_Project\bin\x64\Debug\NET_Project.pdb
+C:\Users\USER\Desktop\NET_Project\NET_Project\bin\x64\Debug\halcondotnet.dll
+C:\Users\USER\Desktop\NET_Project\NET_Project\bin\x64\Debug\halcondotnet.xml
+C:\Users\USER\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Form1.resources
+C:\Users\USER\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.MatchingParameters.resources
+C:\Users\USER\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Properties.Resources.resources
+C:\Users\USER\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csproj.GenerateResource.Cache
+C:\Users\changlw\Desktop\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe
+C:\Users\changlw\Desktop\NET_Project\NET_Project\bin\x64\Debug\NET_Project.pdb
+C:\Users\changlw\Desktop\NET_Project\NET_Project\bin\x64\Debug\halcondotnet.dll
+C:\Users\changlw\Desktop\NET_Project\NET_Project\bin\x64\Debug\halcondotnet.xml
+C:\Users\changlw\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csprojResolveAssemblyReference.cache
+C:\Users\changlw\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Form1.resources
+C:\Users\changlw\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.MatchingParameters.resources
+C:\Users\changlw\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Properties.Resources.resources
+C:\Users\changlw\Desktop\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csproj.GenerateResource.Cache
+F:\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe.config
+F:\NET_Project\NET_Project\obj\x64\Debug\NET_Project.exe
+F:\NET_Project\NET_Project\obj\x64\Debug\NET_Project.pdb
+F:\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe
+F:\NET_Project\NET_Project\bin\x64\Debug\NET_Project.pdb
+F:\NET_Project\NET_Project\bin\x64\Debug\halcondotnet.xml
+F:\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csprojResolveAssemblyReference.cache
+F:\NET_Project\NET_Project\obj\x64\Debug\NET_Project.CameraSettings.resources
+F:\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Form1.resources
+F:\NET_Project\NET_Project\obj\x64\Debug\NET_Project.MatchingParameters.resources
+F:\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Properties.Resources.resources
+F:\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csproj.GenerateResource.Cache
+D:\Tool\Calvin\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe.config
+D:\Tool\Calvin\NET_Project\NET_Project\obj\x64\Debug\NET_Project.exe
+D:\Tool\Calvin\NET_Project\NET_Project\obj\x64\Debug\NET_Project.pdb
+D:\Tool\Calvin\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csprojResolveAssemblyReference.cache
+D:\Tool\Calvin\NET_Project\NET_Project\obj\x64\Debug\NET_Project.CameraSettings.resources
+D:\Tool\Calvin\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Form1.resources
+D:\Tool\Calvin\NET_Project\NET_Project\obj\x64\Debug\NET_Project.MatchingParameters.resources
+D:\Tool\Calvin\NET_Project\NET_Project\obj\x64\Debug\NET_Project.Properties.Resources.resources
+D:\Tool\Calvin\NET_Project\NET_Project\obj\x64\Debug\NET_Project.csproj.GenerateResource.Cache
+D:\Tool\Calvin\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe
+D:\Tool\Calvin\NET_Project\NET_Project\bin\x64\Debug\NET_Project.pdb
+D:\Tool\Calvin\NET_Project\NET_Project\bin\x64\Debug\halcondotnet.xml
+D:\Tool\Calvin\NET_Project\NET_Project\bin\x64\Debug\VisionInterfaces.dll
+D:\Tool\Calvin\NET_Project\NET_Project\bin\x64\Debug\VisionInterfaces.pdb
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\bin\x64\Debug\NET_Project.exe.config
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\x64\Debug\NET_Project.exe
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\x64\Debug\NET_Project.pdb

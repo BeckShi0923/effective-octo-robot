@@ -1,0 +1,6 @@
+D:\Tool\Calvin\NET_Project\VisionInterfaces\bin\Debug\VisionInterfaces.dll
+D:\Tool\Calvin\NET_Project\VisionInterfaces\bin\Debug\VisionInterfaces.pdb
+D:\Tool\Calvin\NET_Project\VisionInterfaces\bin\Debug\halcondotnet.dll
+D:\Tool\Calvin\NET_Project\VisionInterfaces\bin\Debug\halcondotnet.xml
+D:\Tool\Calvin\NET_Project\VisionInterfaces\obj\Debug\VisionInterfaces.dll
+D:\Tool\Calvin\NET_Project\VisionInterfaces\obj\Debug\VisionInterfaces.pdb

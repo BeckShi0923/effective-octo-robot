@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2012\Projects\NET_Project\NET_Project\bin\Debug\NET_Project.exe.config
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\bin\Debug\NET_Project.exe.config
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\bin\Debug\NET_Project.exe
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\bin\Debug\NET_Project.pdb
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\bin\Debug\halcondotnet.dll
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\bin\Debug\VisionInterfaces.dll
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\bin\Debug\VisionInterfaces.pdb
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\bin\Debug\halcondotnet.xml
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\Debug\NET_Project.csprojResolveAssemblyReference.cache
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\Debug\NET_Project.CameraSettings.resources
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\Debug\NET_Project.Form1.resources
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\Debug\NET_Project.MatchingParameters.resources
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\Debug\NET_Project.Properties.Resources.resources
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\Debug\NET_Project.csproj.GenerateResource.Cache
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\Debug\NET_Project.exe
+C:\Users\changlw\Desktop\Inspection\NET_Project\NET_Project\obj\Debug\NET_Project.pdb
